@@ -2,6 +2,8 @@
 
 Test Prep application for electronically completing SAT practice tests and getting relevant results on a per question basis. This app is meant to be used by educators who will be grading the official [SAT Practice Tests](https://collegereadiness.collegeboard.org/sat/practice/full-length-practice-tests) as published by the College Board. Educator can sign in to this app and enter students' responses to get detailed reports of how well students do and what areas need further study.
 
+The live app is hosted by Heroku at [test-prep-prod.herokuapp.com](https://test-prep-prod.herokuapp.com/).
+
 This app was created with ❤️ by [Jess Butler](https://github.com/JessButler16), [Shane Keney](https://github.com/ShaneKeney), [Jeremy Marotta](https://github.com/firefreet), [Zachary Rosensohn](https://github.com/zrosensohn), and [Nathan Sartain](https://github.com/NatePad).
 
 ## Local Installation and Setup:
